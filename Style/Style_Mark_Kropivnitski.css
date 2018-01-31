@@ -1,0 +1,15 @@
+div#container {
+background-color: rgba(0,0,0,0.8);
+padding: 0;
+margin-bottom: 0;
+min-height: 23em;
+border-radius: 2em;
+}
+
+body {
+background-color: rgba(0,0,0,0.2);
+}
+
+.person {
+  clip-path: circle(36% AT 50% 50%);
+}
