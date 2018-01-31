@@ -1,0 +1,40 @@
+body {
+  font-family: Segoe UI, arial, sans-serif;
+    
+  background-image: url("../Images/Chess.jpg");
+  background-size: 100%;
+  background-blend-mode: lighten;
+  opacity: 5;
+}
+
+.person {
+  display: block;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.person2 {
+  display: block;
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+p{
+  color: gainsboro;
+  padding-left: 400px;
+  padding-right: 400px;
+  font-weight: bold;
+  
+}
+
+h1{
+  color:darkorange;
+  text-align: center;
+  text-decoration-style: dashed;
+  text-emphasis-style: "*";
+  font-style: oblique;
+  text-emphasis-style: circle;
+  font-size: 250%;
+}
