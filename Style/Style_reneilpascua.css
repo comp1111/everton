@@ -1,0 +1,65 @@
+body {
+	font-family: Segoe UI, arial, sans-serif;
+	background-color: black;
+    background-size: 100%;
+	color: #ffffff;
+    font-size: 1.1em;
+}
+
+figure figcaption {
+    border: 1px dotted blue;
+}
+
+img.person {
+    vertical-align: top;
+    float: left;
+    width: 40%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+
+div#bio {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+
+
+div#logo {
+    padding: 15px;
+    margin: 20px auto 0px auto;
+    text-align: center;
+}
+
+img#logoimg {
+    width: 35%;
+}
+
+div#container {
+    overflow:auto;
+    background-color: grey;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 300px;
+	margin: 0 auto -4em;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%; 
+    //padding-bottom: 50px;
+}
+
+h1, h2, div>a {
+    padding-left:  1.5%;
+}
+
+ul>li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color:  #FFE97F;
+    outline:  none;
+}
+
+img {border:  0;}
